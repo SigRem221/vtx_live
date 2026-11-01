@@ -1,4 +1,22 @@
 {
   "version": 1,
-  "trustedPlayers": ["Sig"]
+  "trustedPlayers": [
+    "Sig"
+  ],
+  "news": [
+    {
+      "titleJa": "αテスト",
+      "titleEn": "Alpha Test",
+      "bodyJa": "このワールドはαテスト中です。不具合は出るし見た目もバランスも仮！\nでもご意見募集中です！！",
+      "bodyEn": "This world is under construction.",
+      "banner": true
+    },
+    {
+      "titleJa": "武器DPSデータ求む",
+      "titleEn": "",
+      "bodyJa": "武器種のバランスを整えるため、武器DPSがどれくらい出ているか知りたいです。\nトレーニングダミーを殴って教えてくれると嬉しい！\n初期武器（各プラムシリーズ、属性なし）で測ってね。",
+      "bodyEn": "",
+      "banner": true
+    }
+  ]
 }
