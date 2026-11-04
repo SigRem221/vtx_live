@@ -25,5 +25,9 @@
       "bodyEn": "• 7 weapon categories\n• Several regular enemy types\n• 1 miniboss\n• 4 bosses",
       "banner": true
     }
-  ]
+  ],
+  "signage": {
+    "ja": "現在αテスト中……",
+    "en": "This world is currently in alpha."
+  }
 }
