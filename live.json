@@ -12,17 +12,17 @@
       "banner": true
     },
     {
-      "titleJa": "武器DPSデータ求む",
+      "titleJa": "武器調整中",
       "titleEn": "Weapon DPS Data Wanted",
-      "bodyJa": "武器種のバランスを整えるため、武器DPSがどれくらい出ているか知りたいです。\nトレーニングダミーを殴って教えてくれると嬉しい！\n初期武器（各プラムシリーズ、属性なし）で測ってね。",
-      "bodyEn": "To help balance the weapon types, we’d like to know how much DPS you’re getting.\nHit the training dummy and share your results!\nPlease test with the starter weapons from each Plum series, with no elemental attributes.",
+      "bodyJa": "",
+      "bodyEn": "",
       "banner": true
     },
     {
       "titleJa": "実装内容",
       "titleEn": "Currently Available",
-      "bodyJa": "・7種の武器カテゴリ\n・雑魚敵数種\n・中ボス1体\n・ボス4体",
-      "bodyEn": "• 7 weapon categories\n• Several regular enemy types\n• 1 miniboss\n• 4 bosses",
+      "bodyJa": "・7種の武器カテゴリ\n・雑魚敵数種\n・中ボス1体\n・ボスそこそこ",
+      "bodyEn": "• 7 weapon categories\n• Several regular enemy types\n• 1 miniboss\n• Several bosses",
       "banner": true
     }
   ],
