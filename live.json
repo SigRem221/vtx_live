@@ -29,5 +29,16 @@
   "signage": {
     "ja": "現在αテスト中……",
     "en": "This world is currently in alpha."
-  }
+  },
+  "totems": [
+    {
+      "visible": true
+    },
+    {
+      "visible": true
+    },
+    {
+      "visible": false
+    }
+  ]
 }
