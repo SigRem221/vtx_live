@@ -32,7 +32,7 @@
   },
   "totems": [
     {
-      "visible": true
+      "visible": false
     },
     {
       "visible": true
