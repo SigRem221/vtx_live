@@ -84,7 +84,7 @@
       "days": 30,
       "titleJa": "アルファテスト_一斉送信メールテスト",
       "titleEn": "AlphaTest_MailTest",
-      "bodyJa": "一斉送信のメールテストです",
+      "bodyJa": "一斉送信のメールテストです。\nまた、アイテムコードのテストも実施中です。\nテスト用アイテムコード： ITEMCODEALPHA",
       "bodyEn": "This is a MailTest",
       "target": "all",
       "attachments": [
