@@ -40,5 +40,113 @@
     {
       "visible": false
     }
+  ],
+  "clerks": {
+    "shop": [
+      {
+        "visible": false,
+        "lineJa": "",
+        "lineEn": ""
+      },
+      {
+        "visible": false,
+        "lineJa": "",
+        "lineEn": ""
+      },
+      {
+        "visible": false,
+        "lineJa": "",
+        "lineEn": ""
+      }
+    ],
+    "forge": [
+      {
+        "visible": false,
+        "lineJa": "",
+        "lineEn": ""
+      },
+      {
+        "visible": false,
+        "lineJa": "",
+        "lineEn": ""
+      },
+      {
+        "visible": false,
+        "lineJa": "",
+        "lineEn": ""
+      }
+    ]
+  },
+  "mails": [
+    {
+      "id": 1,
+      "start": "2026-11-18",
+      "days": 30,
+      "titleJa": "アルファテスト_一斉送信メールテスト",
+      "titleEn": "AlphaTest_MailTest",
+      "bodyJa": "一斉送信のメールテストです",
+      "bodyEn": "This is a MailTest",
+      "target": "all",
+      "attachments": [
+        {
+          "kind": "currency",
+          "id": 5,
+          "count": 5
+        },
+        {
+          "kind": "item",
+          "id": 1,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": "2026-11-18",
+      "days": 30,
+      "titleJa": "アルファテスト_アイテムコードテスト",
+      "titleEn": "AlphaTest_ItemCodeTest",
+      "bodyJa": "アイテムコードの入力テストです。",
+      "bodyEn": "Item code test.",
+      "target": "code",
+      "codeHash": "3003478654",
+      "attachments": [
+        {
+          "kind": "item",
+          "id": 2,
+          "count": 1
+        },
+        {
+          "kind": "item",
+          "id": 61,
+          "count": 1
+        },
+        {
+          "kind": "currency",
+          "id": 6,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": "2026-11-18",
+      "days": 30,
+      "titleJa": "ユーザー指定メールテスト",
+      "titleEn": "User Mail Test",
+      "bodyJa": "ユーザー指定のメールテストです。",
+      "bodyEn": "User Mail Test.",
+      "target": "users",
+      "users": [
+        "Sig"
+      ],
+      "attachments": [
+        {
+          "kind": "currency",
+          "id": 1,
+          "count": 2
+        }
+      ]
+    }
   ]
 }
