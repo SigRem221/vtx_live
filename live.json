@@ -44,9 +44,9 @@
   "clerks": {
     "shop": [
       {
-        "visible": false,
-        "lineJa": "",
-        "lineEn": ""
+        "visible": true,
+        "lineJa": "ここはお店だよー！",
+        "lineEn": "shop"
       },
       {
         "visible": false,
@@ -61,9 +61,9 @@
     ],
     "forge": [
       {
-        "visible": false,
-        "lineJa": "",
-        "lineEn": ""
+        "visible": true,
+        "lineJa": "ここは強化ショップだよー！",
+        "lineEn": "forge"
       },
       {
         "visible": false,
